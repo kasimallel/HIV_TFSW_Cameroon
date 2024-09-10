@@ -1,16 +1,6 @@
 Cost-effectiveness of health insurance among women engaged in transactional sex and impacts on HIV transmission in Cameroon: A Mathematical Model
 
 
-Kasim Allel1,2,*, Henry Cust2, Iliassou Mfochive3, Sandie Szawlowski2, Emile Nitcheu3, Eric Defo Tamgno3, Stephanie Moyoum3, Julienne Noo3, Serge Billong4, Ubald Tamoufe3, Aurelia Lepine2
-
-
-1 Health Economics Research Centre, Nuffield Department of Population Health, University of Oxford, Oxford, UK
-2 Institute for Global Health, University College London, London, UK
-3John Hopkins Cameroon Program, Yaounde, Cameroon
-4 University of Yaounde I, Yaounde, Cameroon
-
-*Corresponding author: kasim.allelhenriquez@ndph.ox.ac.uk. Address: Health Economics Research Centre, Nuffield Department of Population Health, University of Oxford, Richard Doll Building Old Road Campus, Oxfordshire OX3 7LF, UK. 
-
 Introduction HIV prevalence disproportionately affects high-risk populations, particularly female sex workers in Africa. Women and girls engaging in transactional sex (WGTS) also face significant health risks due to unsafe practices, economic vulnerabilities and stigma but unlike female sex workers, they are not considered a key population in national HIV programmes and like many other informal groups do not benefit from any form of financial protection. .
 
 Methods Using existing literature and evidence generated in the POWER randomised controlled trial, we developed a deterministic compartmental model to assess HIV dynamics among WGTS, their sugar daddies, and low-risk populations. We evaluated the cost-effectiveness of a new structural intervention to prevent HIV among women engaging in transactional sex in urban Cameroon. The intervention consisted in providing free health care to women engaged in transactional sex as well as their economic dependents through a health insurance package. We explored the cost-effectiveness of this intervention considering various coverage levels (0%, 25%, 50%, 75%, and 100%). We calculated the incremental cost-effectiveness ratio (ICER) per disability-adjusted life year (DALY) and HIV infections averted, employing both univariable and global sensitivity analyses. Probabilistic sensitivity analyses considered all parameters, including insurance efficacy in reducing HIV, comparing simulated ICERs to willingness-to-pay (WTP) thresholds. We also compared the health insurance strategy with expanding PrEP coverage. We used 2023£ and a 3% discount rate.
